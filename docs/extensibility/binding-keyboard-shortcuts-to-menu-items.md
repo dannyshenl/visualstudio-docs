@@ -91,7 +91,7 @@ To bind a keyboard shortcut to a custom menu command, just add an entry to the *
 </Commands>
 <KeyBindings>
   <KeyBinding guid="guidMyPackageCmdSet" id="cmdidMyCommand"
-      key1="C" mod1="CONTROL" mod2="ALT" editor="guidVSStd97" />
+      key1="C" mod1="CONTROL ALT" editor="guidVSStd97" />
 </KeyBindings>
 . . .
 </CommandTable>
